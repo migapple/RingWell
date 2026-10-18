@@ -1,7 +1,7 @@
 # RingWell
 
 
-RING WELL — Fiche App Store Connect (FR + EN)
+RING WELL (FR + EN)
 App Apple Watch autonome · watchOS 10+ · SwiftUI natif
 ==================================================================
 
@@ -11,7 +11,7 @@ INFORMATIONS GÉNÉRALES
 Catégorie principale : Jeux
 Sous-catégories      : Arcade, Réflexion
 Âge                  : 4+ (aucun contenu à déclarer)
-Prix                 : à votre choix
+Prix                 : 0.99 €
 Copyright            : 2026 Michel Garlandat
 
 App Privacy : Data Not Collected / Aucune donnée collectée
